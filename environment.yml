@@ -1,0 +1,3 @@
+name: phollo
+dependencies:
+    - python=3.6
